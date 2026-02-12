@@ -38,45 +38,5 @@
     "ANMERKUNG": "Sticker benötigt",
     "Cashback": "100%",
     "Deal": "https://www.mydealz.de/deals/gzg-gzg-gratis-testen-fairy-max-power-spulmittel-geld-zuruck-2720194"
-  },
-  {
-    "ID": 98765432,
-    "NAME": "TTTTT",
-    "SHOP": "REWE",
-    "START": "02.02.2026",
-    "ENDE": "06.02.2026",
-    "ANMERKUNG": "",
-    "Cashback": "100%",
-    "Deal": "https://google.com"
-  },
-  {
-    "ID": 45678912,
-    "NAME": "BROT",
-    "SHOP": "LIDL",
-    "START": "01.02.2026",
-    "ENDE": "03.02.2026",
-    "ANMERKUNG": "Hey vergiss nicht den code",
-    "Cashback": "100%",
-    "Deal": "https://google.com"
-  },
-  {
-    "ID": 74185296,
-    "NAME": "BUTTER",
-    "SHOP": "ALDI",
-    "START": "03.02.2026",
-    "ENDE": "07.02.2026",
-    "ANMERKUNG": "CODE",
-    "Cashback": "100%",
-    "Deal": "https://google.com"
-  },
-  {
-    "ID": 8006530174718,
-    "NAME": "JOGHURT",
-    "SHOP": "EDEKA",
-    "START": "04.02.2026",
-    "ENDE": "08.02.2026",
-    "ANMERKUNG": "AHA",
-    "Cashback": "100%",
-    "Deal": "https://google.com"
   }
 ]
