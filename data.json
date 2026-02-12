@@ -1,13 +1,43 @@
 [
   {
-    "ID": 12389123,
-    "NAME": "KÄSE",
-    "SHOP": "DM",
+    "ID": 8006540422731,
+    "NAME": "Fairy Handspülmittel Max Power Original 545 ml",
+    "SHOP": "*",
     "START": "01.02.2026",
-    "ENDE": "05.02.2026",
-    "ANMKERUNG": "TEST",
-    "Cashback": "10%",
-    "Deal": "https://google.com"
+    "ENDE": "12.05.2026",
+    "ANMKERUNG": "Sticker benötigt",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-gzg-gratis-testen-fairy-max-power-spulmittel-geld-zuruck-2720194"
+  },
+  {
+    "ID": 8006540422670,
+    "NAME": "Fairy Handspülmittel Max Power Zitrone 545 ml",
+    "SHOP": "*",
+    "START": "01.02.2026",
+    "ENDE": "12.05.2026",
+    "ANMKERUNG": "Sticker benötigt",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-gzg-gratis-testen-fairy-max-power-spulmittel-geld-zuruck-2720194"
+  },
+  {
+    "ID": 8700216309707,
+    "NAME": "Fairy Handspülmittel Max Power Antibakteriell 545 ml",
+    "SHOP": "*",
+    "START": "01.02.2026",
+    "ENDE": "12.05.2026",
+    "ANMKERUNG": "Sticker benötigt",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-gzg-gratis-testen-fairy-max-power-spulmittel-geld-zuruck-2720194"
+  },
+  {
+    "ID": 8006530232067,
+    "NAME": "Fairy Handspülmittel Max Power Granatapfel 545 ml",
+    "SHOP": "*",
+    "START": "01.02.2026",
+    "ENDE": "12.05.2026",
+    "ANMKERUNG": "Sticker benötigt",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-gzg-gratis-testen-fairy-max-power-spulmittel-geld-zuruck-2720194"
   },
   {
     "ID": 98765432,
