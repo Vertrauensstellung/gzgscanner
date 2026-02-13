@@ -38,5 +38,55 @@
     "ANMERKUNG": "Sticker benötigt",
     "Cashback": "100%",
     "Deal": "https://www.mydealz.de/deals/gzg-gzg-gratis-testen-fairy-max-power-spulmittel-geld-zuruck-2720194"
+  },
+  {
+    "ID": 8006530231015,
+    "NAME": "Ariel Max Power Pods Universal - 15WL",
+    "SHOP": "DM",
+    "START": "05.02.2026",
+    "ENDE": "05.03.2026",
+    "ANMERKUNG": "",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-ariel-max-power-2725735"
+  },
+  {
+    "ID": 8006530231022,
+    "NAME": "Ariel Max Power Pods Color - 15WL",
+    "SHOP": "DM",
+    "START": "05.02.2026",
+    "ENDE": "05.03.2026",
+    "ANMERKUNG": "",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-ariel-max-power-2725735"
+  },
+  {
+    "ID": 8700216633581,
+    "NAME": "Lenor Wäscheparfüm, Aprilfrisch, 155 g",
+    "SHOP": "*",
+    "START": "05.02.2026",
+    "ENDE": "15.06.2026",
+    "ANMERKUNG": "",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-lenor-waschmittel-gratis-testen-und-wascheparfum-gratis-testen-2724521"
+  },
+  {
+    "ID": 8700216633994,
+    "NAME": "Lenor Unstoppables, Fresh, 155 g",
+    "SHOP": "*",
+    "START": "05.02.2026",
+    "ENDE": "15.06.2026",
+    "ANMERKUNG": "",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-lenor-waschmittel-gratis-testen-und-wascheparfum-gratis-testen-2724521"
+  },
+  {
+    "ID": 8700216633802,
+    "NAME": "Lenor Light Wäscheparfüm, Frische Baumwollblüte, 155 g",
+    "SHOP": "*",
+    "START": "05.02.2026",
+    "ENDE": "15.06.2026",
+    "ANMERKUNG": "",
+    "Cashback": "100%",
+    "Deal": "https://www.mydealz.de/deals/gzg-lenor-waschmittel-gratis-testen-und-wascheparfum-gratis-testen-2724521"
   }
 ]
